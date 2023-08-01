@@ -2,7 +2,7 @@
 
 namespace IronPdf
 {
-    public class Class1
+    public class PdfDoc
     {
 
     }

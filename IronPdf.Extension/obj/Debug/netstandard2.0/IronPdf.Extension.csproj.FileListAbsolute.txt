@@ -1,0 +1,13 @@
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/bin/Debug/netstandard2.0/IronPdf.Extension.deps.json
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/bin/Debug/netstandard2.0/IronPdf.Extension.dll
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/bin/Debug/netstandard2.0/IronPdf.Extension.pdb
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/bin/Debug/netstandard2.0/IronPdf.dll
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/bin/Debug/netstandard2.0/IronPdf.pdb
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/Debug/netstandard2.0/IronPdf.Extension.csproj.AssemblyReference.cache
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/Debug/netstandard2.0/IronPdf.Extension.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/Debug/netstandard2.0/IronPdf.Extension.AssemblyInfoInputs.cache
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/Debug/netstandard2.0/IronPdf.Extension.AssemblyInfo.cs
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/Debug/netstandard2.0/IronPdf.Extension.csproj.CoreCompileInputs.cache
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/Debug/netstandard2.0/IronPdf.Extension.csproj.CopyComplete
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/Debug/netstandard2.0/IronPdf.Extension.dll
+/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/Debug/netstandard2.0/IronPdf.Extension.pdb

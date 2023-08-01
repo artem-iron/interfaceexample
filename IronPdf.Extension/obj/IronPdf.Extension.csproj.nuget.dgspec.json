@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/artem/Projects/InterfaceExample/IronPdf.Extension/IronPdf.Extension.csproj": {}
+  },
+  "projects": {
+    "/Users/artem/Projects/InterfaceExample/IronPdf.Extension/IronPdf.Extension.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/artem/Projects/InterfaceExample/IronPdf.Extension/IronPdf.Extension.csproj",
+        "projectName": "IronPdf.Extension",
+        "projectPath": "/Users/artem/Projects/InterfaceExample/IronPdf.Extension/IronPdf.Extension.csproj",
+        "packagesPath": "/Users/artem/.nuget/packages/",
+        "outputPath": "/Users/artem/Projects/InterfaceExample/IronPdf.Extension/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/artem/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronCommon/_packaging/IronCommon/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronOCR/_packaging/IronOcr.Dependencies/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronPDF/_packaging/IronPdf/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronWebScraper/_packaging/IronWebScraper/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronXL/_packaging/IronXL/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/artem/Projects/InterfaceExample/IronPdf/IronPdf.csproj": {
+                "projectPath": "/Users/artem/Projects/InterfaceExample/IronPdf/IronPdf.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/artem/Projects/InterfaceExample/IronPdf/IronPdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/artem/Projects/InterfaceExample/IronPdf/IronPdf.csproj",
+        "projectName": "IronPdf",
+        "projectPath": "/Users/artem/Projects/InterfaceExample/IronPdf/IronPdf.csproj",
+        "packagesPath": "/Users/artem/.nuget/packages/",
+        "outputPath": "/Users/artem/Projects/InterfaceExample/IronPdf/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/artem/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronCommon/_packaging/IronCommon/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronOCR/_packaging/IronOcr.Dependencies/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronPDF/_packaging/IronPdf/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronWebScraper/_packaging/IronWebScraper/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ironcoders/IronXL/_packaging/IronXL/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

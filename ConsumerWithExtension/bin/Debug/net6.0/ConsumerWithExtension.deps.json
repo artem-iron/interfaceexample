@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsumerWithExtension/1.0.0": {
+        "dependencies": {
+          "IronPdf": "1.0.0.0",
+          "IronPdf.Extension": "1.0.0.0"
+        },
+        "runtime": {
+          "ConsumerWithExtension.dll": {}
+        }
+      },
+      "IronPdf/1.0.0.0": {
+        "runtime": {
+          "IronPdf.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "IronPdf.Extension/1.0.0.0": {
+        "runtime": {
+          "IronPdf.Extension.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsumerWithExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronPdf/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronPdf.Extension/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

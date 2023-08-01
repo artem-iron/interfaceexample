@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3B3+Rq7GZ+vHsAArglIMZdKmtcb1y5n3jEx5Y9BV5zi3AABj0pZ1ufRBCAHHA73KEpFVYnzRN01orSEPVW8oog==",
+  "success": true,
+  "projectFilePath": "/Users/artem/Projects/InterfaceExample/IronPdf.Extension/IronPdf.Extension.csproj",
+  "expectedPackageFiles": [
+    "/Users/artem/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/artem/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
