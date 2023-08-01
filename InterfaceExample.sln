@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPdf", "IronPdf\IronPdf.csproj", "{6244DCE9-66ED-4BEF-AF4A-8DBDDC36780F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6244DCE9-66ED-4BEF-AF4A-8DBDDC36780F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6244DCE9-66ED-4BEF-AF4A-8DBDDC36780F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6244DCE9-66ED-4BEF-AF4A-8DBDDC36780F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6244DCE9-66ED-4BEF-AF4A-8DBDDC36780F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E7993DE-50E4-47BD-B3AB-29F4EC41041C}
+	EndGlobalSection
+EndGlobal
