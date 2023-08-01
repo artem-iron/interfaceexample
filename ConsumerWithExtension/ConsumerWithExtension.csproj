@@ -8,11 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="IronPdf">
-      <HintPath>..\IronPdf\bin\Debug\netstandard2.0\IronPdf.dll</HintPath>
-    </Reference>
-    <Reference Include="IronPdf.Extension">
-      <HintPath>..\IronPdf.Extension\bin\Debug\netstandard2.0\IronPdf.Extension.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\IronPdf.Extension\IronPdf.Extension.csproj" />
   </ItemGroup>
 </Project>

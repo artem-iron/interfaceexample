@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "IronPdf/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IronPdf.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IronPdf.dll": {}
+        }
+      },
+      "IronPdf.Extension/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "IronPdf": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/IronPdf.Extension.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IronPdf.Extension.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "IronPdf/1.0.0": {
+      "type": "project",
+      "path": "../IronPdf/IronPdf.csproj",
+      "msbuildProject": "../IronPdf/IronPdf.csproj"
+    },
+    "IronPdf.Extension/1.0.0": {
+      "type": "project",
+      "path": "../IronPdf.Extension/IronPdf.Extension.csproj",
+      "msbuildProject": "../IronPdf.Extension/IronPdf.Extension.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "IronPdf.Extension >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/artem/.nuget/packages/": {}
@@ -36,7 +73,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/artem/Projects/InterfaceExample/IronPdf.Extension/IronPdf.Extension.csproj": {
+              "projectPath": "/Users/artem/Projects/InterfaceExample/IronPdf.Extension/IronPdf.Extension.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,3 +6,5 @@ Console.WriteLine("Hello, World!");
 IXmlToPdfConverter? converter = null;
 
 converter?.Convert();
+
+Console.ReadKey();

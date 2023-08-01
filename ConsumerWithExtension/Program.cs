@@ -6,3 +6,5 @@ Console.WriteLine("Hello, World!");
 IXmlToPdfConverter converter = new XmlToPdfConverter();
 
 converter.Convert();
+
+Console.ReadKey();

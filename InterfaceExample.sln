@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPdf", "IronPdf\IronPdf.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPdf.Extension", "IronPdf.Extension\IronPdf.Extension.csproj", "{5FA5DF64-9532-435E-950C-E7496983CDE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerOnlyIronPdf", "Consumer\ConsumerOnlyIronPdf.csproj", "{38D49898-E805-4B27-9D87-51A9401BB9AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerOnlyIronPdf", "ConsumerOnlyIronPdf\ConsumerOnlyIronPdf.csproj", "{38D49898-E805-4B27-9D87-51A9401BB9AF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerWithExtension", "ConsumerWithExtension\ConsumerWithExtension.csproj", "{3899127A-AC1C-4D47-AA83-21A4B50EFA7E}"
 EndProject
